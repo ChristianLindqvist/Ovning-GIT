@@ -9,6 +9,7 @@ namespace Ovning_GIT
         public void SayHello()
         {
             Console.WriteLine("Hi, my name is Jasmine");
+            Console.WriteLine("This is saved in my personal bransch");
         }
     }
 }
