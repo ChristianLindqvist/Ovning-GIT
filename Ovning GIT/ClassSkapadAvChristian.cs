@@ -12,6 +12,7 @@ namespace Ovning_GIT
         {
         Console.WriteLine("Hello, from Christian");
         Console.WriteLine("This line of text was initially created in branch BranchSkapadAvChristian");
+        Console.WriteLine("Another line of text was initially created in branch BranchSkapadAvChristian");
         }
     }
 }
