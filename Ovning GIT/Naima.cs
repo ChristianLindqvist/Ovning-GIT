@@ -6,7 +6,7 @@ namespace Ovning_GIT
     {
         public Naima()
         {
-            Console.WriteLine("Hello, from Naima!");
+            Console.WriteLine("Hello, from Naima! Version 2.");
         }
     }
 }
